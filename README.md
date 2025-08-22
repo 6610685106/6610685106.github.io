@@ -15,7 +15,7 @@
 *  Reading Manga
 
 ##  This is Me ⬇️
-![]()
+![](Photo_resource/Mypicture.jpg)
 
 ##  Contact Detail
 * ✉️ [Email](kittichet.sin@dome.tu.ac.th)
