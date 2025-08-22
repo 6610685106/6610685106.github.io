@@ -11,7 +11,7 @@
 ##  My Interests/Hobbies
 *  Gaming
 *  Programing
-*  Shooting
+*  Shooting (ISSF)
 *  Reading Manga
 
 ##  This is Me ⬇️
@@ -19,4 +19,4 @@
 
 ##  Contact Detail
 * ✉️ [Email](kittichet.sin@dome.tu.ac.th)
-* ☎️ 0984796515
+* ☎️ +66 98 479 6515
